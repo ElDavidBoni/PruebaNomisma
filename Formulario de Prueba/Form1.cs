@@ -16,7 +16,9 @@ namespace Formulario_de_Prueba
         {
             InitializeComponent();
         }
-        // Este es el de segunda rama
+        // Ahora si yo toco este tendría que crear un conflicto
+        // Esto tendría que dar conflico 
+        // Seguro que da conflicto
         // Este cambio lo hago en mi repositorio
         // Y este también
         // Y este
